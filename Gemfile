@@ -5,7 +5,7 @@ gem 'jquery-rails', '>= 1.0.12'
 
 
 group :production do
-  gem 'pg'
+  # gem 'pg'
 end
 
 group :development do
