@@ -18,4 +18,5 @@ group :test do
 	gem 'rspec-rails'
 	gem 'sqlite3'
 	gem 'webrat'
+    gem 'factory_girl_rails'
 end
